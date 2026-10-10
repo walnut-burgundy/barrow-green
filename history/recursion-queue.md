@@ -8,11 +8,13 @@ A source enters this queue when it has been located but its references have not 
 - [x] English Wikipedia — Jesper Lützen: references enumerated in its source node.
 - [x] English Wikipedia — Jed Z. Buchwald: references enumerated in its source node.
 - [x] English Wikipedia — Jeremy Gray: references enumerated in its source node.
+- [x] English Wikipedia — *Poincaré and the Three-Body Problem*: all eight page references enumerated.
+- [x] Daniel Henry Gottlieb's 1999 review of Barrow-Green: complete review and its one formal reference inspected.
 - [x] A'Campo & Papadopoulos, “Transitional Geometry”: all 22 bibliography entries enumerated.
 
 ## P1 — books that define the main branches
 
-- [ ] June Barrow-Green, *Poincaré and the Three Body Problem* (1997). Full text located; bibliography section located; enumerate every entry and recurse.
+- [ ] June Barrow-Green, *Poincaré and the Three Body Problem* (1997). Full text located; bibliography is pp. 249–266; enumerate every entry and recurse.
 - [ ] Barrow-Green, Gray & Wilson, *The History of Mathematics: A Source-Based Approach*, vols. 1–2 (2019, 2022). Spider chapter “Further reading” and final bibliographies separately.
 - [ ] Jesper Lützen, *The Prehistory of the Theory of Distributions* (1982).
 - [ ] Jesper Lützen, *Joseph Liouville 1809–1882: Master of Pure and Applied Mathematics* (1990).
@@ -45,11 +47,20 @@ The 22 entries are fully enumerated in the source node. Highest-value next child
 - [ ] Porti / Porti–Weiss transition papers.
 - [ ] Cooper–Hodgson–Kerckhoff, *Three-dimensional Orbifolds and Cone-Manifolds*.
 
-## P2 — Wikipedia review/citation children
+## P2 — review/citation children
 
-### Barrow-Green page
+### Barrow-Green / *Poincaré and the Three-Body Problem*
 
-Spider the seven reviews attached to *Poincaré and the Three Body Problem*: R. Duda; Ll. G. Chambers; James Vickers; Florin Diacu; Jean Mawhin; Albert C. Lewis; Daniel Henry Gottlieb.
+- [ ] R. Duda, zbMATH review.
+- [ ] Ll. G. Chambers, Mathematical Reviews.
+- [ ] James Vickers, *BLMS*.
+- [ ] Florin Diacu, *Historia Mathematica*.
+- [ ] Jean Mawhin, *Isis*.
+- [ ] Albert C. Lewis, *Mathematical Gazette*.
+- [x] Daniel Henry Gottlieb, *American Mathematical Monthly*.
+- [ ] Arthur Jaffe & Frank Quinn, “Theoretical Mathematics” (1993), the sole formal citation in Gottlieb's review.
+
+A separate nonlinear-books review index also locates reviews by H. W. Bruer, David Knapp, and Glen R. Hall. These are **located only** and should not be summarized until inspected.
 
 ### Lützen page
 

@@ -6,9 +6,9 @@ This repository is source-driven. Credit should remain visible rather than being
 
 Thanks to June Barrow-Green, Jesper Lützen, Jed Z. Buchwald, Jeremy Gray, and Athanase Papadopoulos for the scholarship that seeds this repository.
 
-## Coauthors, editors, reviewers, and scholars exposed in the first pass
+## Coauthors, editors, reviewers, and scholars exposed in the first passes
 
-Thanks to Norbert A'Campo, Kirsti Andersen, Tom Archibald, Richard T. W. Arthur, Silvina Ponce Dawson, Umberto Bottazzini, Henk Bos, David Fowler, Florin Diacu, Jean Dieudonné, S. G. Dani, Tushar Das, Mordechai Feingold, Giovanni Ferraro, José Ferreirós, Allan Franklin, Robert Fox, John Fauvel, Catherine Goldstein, Timothy Gowers, Daniel Henry Gottlieb, David Graves, Erwin Hiebert, Lizhen Ji, Diane Greco Josefowicz, Douglas Jesseph, Nicholas D. Kazarinoff, Imre Leader, Albert C. Lewis, Jean Mawhin, Karen Parshall, Marco Panza, David Rabouin, Marie-Françoise Roy, David E. Rowe, Reinhard Siegmund-Schultze, John Stillwell, Ian Stewart, Scott Walter, Andrew Warwick, Robin Wilson, Richard J. Wilders, and Gert Schubring.
+Thanks to Norbert A'Campo, Kirsti Andersen, Tom Archibald, Richard T. W. Arthur, Silvina Ponce Dawson, Umberto Bottazzini, Henk Bos, David Fowler, Florin Diacu, Jean Dieudonné, S. G. Dani, Tushar Das, Mordechai Feingold, Giovanni Ferraro, José Ferreirós, Allan Franklin, Robert Fox, John Fauvel, Catherine Goldstein, Timothy Gowers, Daniel Henry Gottlieb, David Graves, Erwin Hiebert, Arthur Jaffe, Lizhen Ji, Diane Greco Josefowicz, Douglas Jesseph, Nicholas D. Kazarinoff, Imre Leader, Albert C. Lewis, Jean Mawhin, Karen Parshall, Marco Panza, Frank Quinn, David Rabouin, Marie-Françoise Roy, David E. Rowe, Reinhard Siegmund-Schultze, John Stillwell, Ian Stewart, Scott Walter, Andrew Warwick, Robin Wilson, Richard J. Wilders, and Gert Schubring.
 
 ## Authors in the first fully spidered bibliography
 
