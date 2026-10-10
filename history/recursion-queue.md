@@ -58,9 +58,29 @@ The 22 entries are fully enumerated in the source node. Highest-value next child
 - [ ] Jean Mawhin, *Isis*.
 - [ ] Albert C. Lewis, *Mathematical Gazette*.
 - [x] Daniel Henry Gottlieb, *American Mathematical Monthly*.
-- [ ] Arthur Jaffe & Frank Quinn, “Theoretical Mathematics” (1993), the sole formal citation in Gottlieb's review.
+- [x] Arthur Jaffe & Frank Quinn, “Theoretical Mathematics” (1993), the sole formal citation in Gottlieb's review; all 15 formal references enumerated.
 
 A separate nonlinear-books review index also locates reviews by H. W. Bruer, David Knapp, and Glen R. Hall. These are **located only** and should not be summarized until inspected.
+
+### Direct children of Jaffe–Quinn (1993)
+
+- [ ] P. W. Anderson, *Concepts in Solids*.
+- [ ] Jean Dieudonné, *A History of Algebraic and Differential Topology 1900–1960*.
+- [ ] David Eisenbud & Joe Harris, “Progress in the Theory of Complex Algebraic Curves.”
+- [ ] Richard P. Feynman, *Surely You're Joking, Mr. Feynman!*
+- [ ] Jean-Marc Fontaine, Bourbaki exposé on special values of motivic L-functions.
+- [ ] James Gleick, *Chaos*.
+- [ ] James Gleick, *Genius*.
+- [ ] Arthur Jaffe, “Mathematics Motivated by Physics.”
+- [ ] János Kollár, introduction to Mori's program.
+- [ ] Steven G. Krantz, “Fractal Geometry.”
+- [ ] Lev Landau & Evgeny Lifshitz, *Statistical Physics*.
+- [ ] Russell McCormmach (ed.), *Historical Studies in the Physical Sciences*.
+- [ ] André Weil, *Foundations of Algebraic Geometry*.
+- [ ] Edward H. Witten, “Quantum Field Theory and the Jones Polynomial.”
+- [ ] Locate and spider the published response literature to Jaffe–Quinn.
+
+Gerald Holton's private communication is recorded in the bibliography node but is not treated as a public document to be hunted down.
 
 ### Lützen page
 

@@ -30,7 +30,7 @@ The recursion now has two secondary source nodes beneath the Barrow-Green seed:
 - [Wikipedia's book article](sources/wikipedia-poincare-three-body-problem.md), which exposes eight reception references and keeps their disagreements attributed;
 - [Daniel Henry Gottlieb's 1999 review](sources/gottlieb-review-poincare-three-body-problem.md), whose sole formal citation leads to Jaffe–Quinn's 1993 debate over proof and theoretical mathematics.
 
-This branch therefore already connects the nineteenth-century three-body story to a late-twentieth-century argument over rigor and mathematical culture.
+This branch therefore already connects the nineteenth-century three-body story to a late-twentieth-century argument over rigor and mathematical culture. [Jaffe–Quinn's 1993 paper](sources/jaffe-quinn-theoretical-mathematics.md) is now fully spidered as the next citation generation, including all 15 formal references.
 
 ### Geometry as a changing language
 
